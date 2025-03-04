@@ -1,5 +1,4 @@
-# 🔍 2-Hour Pokémon Data Analysis Challenge
-## A Quick Guide for High School Data Explorers
+# A Quick Guide for High School Data Explorers
 
 ---
 
@@ -23,7 +22,7 @@ We'll be working with a Pokémon dataset containing information about 905 Pokém
 
 ---
 
-## 🔎 Step 2: Planning Your Analysis (15 minutes)
+## 🔎 Step 2: Planning Your Analysis 
 
 Choose 2-3 questions to focus on during this short analysis. Here are some good options for a 2-hour project:
 
@@ -46,11 +45,9 @@ For each question you choose:
 
 ---
 
-## ❓ Step 3: Basic Data Exploration (25 minutes)
+## ❓ Step 3: Basic Data Exploration 
 
-Now it's time to explore your data and perform some basic analysis.
-
-### 📝 Quick Exploration Tasks:
+### 📝 Example Exploration Tasks:
 
 #### 1. **Count Pokémon by type**
 Count how many Pokémon belong to each primary type (Type1).
@@ -71,7 +68,7 @@ Compare different categories of Pokémon.
 
 ---
 
-## 📊 Step 4: Creating Visualizations (40 minutes)
+## 📊 Step 4: Creating Visualizations 
 
 Create 2-3 clear visualizations that help answer your questions. Focus on making them informative and easy to understand.
 
@@ -132,7 +129,7 @@ Based on your visualizations, identify 3-5 clear insights from your data.
 
 ---
 
-## 📝 Step 6: Creating Your Summary (10 minutes)
+## 📝 Step 6: Creating Your Summary
 
 Compile your findings into a brief summary that tells the story of what you discovered.
 
@@ -153,25 +150,9 @@ Compile your findings into a brief summary that tells the story of what you disc
 
 ---
 
-## ⏱️ 2-Hour Timeline Overview
-
-Here's a quick reference of how to spend your time:
-
-| Time | Activity |
-|------|----------|
-| 0:00-0:15 | Understanding the dataset |
-| 0:15-0:30 | Planning your analysis |
-| 0:30-0:55 | Basic data exploration |
-| 0:55-1:35 | Creating visualizations |
-| 1:35-1:50 | Drawing conclusions |
-| 1:50-2:00 | Creating summary |
-
 ## 📋 Streamlined Preparation Questions
-
-For a 2-hour analysis, focus on answering these key questions:
-
 ### 🚀 Quick Start Questions
-1. What are the 2-3 specific questions I want to answer about Pokémon?
+1. What are the 2-3 specific questions I want to answer about my data?
 2. Which columns will I need to analyze to answer these questions?
 3. What type of chart would best show each answer?
 
@@ -244,21 +225,3 @@ When you're ready to analyze your own dataset (not the Pokémon example), answer
 9. What patterns or trends do I expect to find?
 10. What would be an interesting or surprising finding?
 11. How might this analysis be useful or interesting to others?
-
-> 💡 **Tip**: Keep these answers short and focused! You can always revisit and refine them during your analysis.
-
----
-
-## 🔄 Transferable Skills Checklist
-
-This 2-hour data analysis exercise helps you develop skills that are valuable across many fields:
-
-- [ ] **Data literacy**: Understanding what data tells you
-- [ ] **Critical thinking**: Asking good questions about information
-- [ ] **Visual communication**: Creating charts that tell a story
-- [ ] **Pattern recognition**: Spotting trends and relationships
-- [ ] **Statistical thinking**: Making comparisons and understanding distributions
-- [ ] **Presentation skills**: Summarizing findings clearly
-- [ ] **Technical skills**: Working with data tools
-
-These are the same skills used by data scientists, business analysts, researchers, journalists, and many other professionals!
