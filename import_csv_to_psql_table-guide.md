@@ -11,13 +11,11 @@ This guide will walk you through the process of creating a PostgreSQL database, 
 
 ## Step 1: Access PostgreSQL
 
-Open your terminal or command prompt and connect to PostgreSQL's default database:
+Open your terminal or command prompt and connect to your PostgreSQL database:
 
 ```
-psql -U postgres
+psql
 ```
-
-If prompted, enter your PostgreSQL password. The `-U postgres` part specifies that you're connecting as the "postgres" user, which is typically the default admin user.
 
 ## Step 2: Create a New Database
 
