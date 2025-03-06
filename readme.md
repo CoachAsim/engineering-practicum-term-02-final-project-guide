@@ -59,7 +59,6 @@ Follow the [Connecting Server to DB guide](02-connecting-server-to-db.md) to lin
 ```
 📄 03-frontend-setup.md
 📄 04-connecting-frontend-to-backend.md
-... and more!
 ```
 
 Following this sequence will ensure you build your application in a logical, step-by-step manner.
