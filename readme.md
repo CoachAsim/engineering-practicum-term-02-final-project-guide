@@ -55,15 +55,39 @@ Proceed to the [Node Server & Express Endpoints Starter guide](01-node-server-an
 ```
 Follow the [Connecting Server to DB guide](02-connecting-server-to-db.md) to link your server with your PostgreSQL database.
 
+### 🎨 Step 4: Frontend Setup
+```
+📄 03-frontend-setup-create-react-app.md
+```
+Use the [Frontend Setup guide](03-frontend-setup-create-react-app.md) to create your React application.
+
+### 🔌 Step 5: Connecting Frontend to Backend
+```
+📄 04-frontend-backend-connection.md
+```
+Learn how to connect your React frontend to your Express backend with the [Frontend-Backend Connection guide](04-frontend-backend-connection.md).
+
+### 📚 Step 6: Learning React
+```
+📄 05-learning-react-through-documentation.md
+```
+Follow the [Learning React guide](05-learning-react-through-documentation.md) to build a solid foundation in React concepts.
+
 ### 🔜 Coming Soon
 ```
-📄 03-frontend-setup.md
-📄 04-connecting-frontend-to-backend.md
+📄 06-thinking-in-react.md
+📄 07-react-bootstrap-components.md
+📄 08-frontend-with-placeholder-data.md
+📄 09-server-side-business-logic.md
+📄 10-api-requests-real-data.md
 ```
+- Applying "thinking in React" to our UI wireframe
+- Using React Bootstrap pre-made components
+- Implementing a frontend with placeholder data
+- Server side business logic
+- Populating our frontend with real data through API requests
 
 Following this sequence will ensure you build your application in a logical, step-by-step manner.
-
-> 📝 **Note:** Additional guide files will be added to this sequence soon! Keep an eye out for updates.
 
 ## 📌 The Importance of Reading Thoroughly
 
