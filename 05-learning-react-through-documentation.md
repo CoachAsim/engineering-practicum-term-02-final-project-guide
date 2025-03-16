@@ -17,6 +17,7 @@ This means we won't be touching our final project in VSCode until we finish thes
 1️⃣ **Read quick start for comprehension**
    - 🔗 [React Documentation Quick Start](https://react.dev/learn)
    - "This page will give you an introduction to 80% of the React concepts that you will use on a daily basis."
+   - You don't need to code along to this one.
 
    #### 💡 Key Practices:
    - Start to correlate the code with how components are represented in the UI. Eventually, you want to be able to read code for creating UIs and imagine what it will look like on the screen in your mind's eye.
@@ -26,6 +27,7 @@ This means we won't be touching our final project in VSCode until we finish thes
    - 🔗 [React Tic Tac Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 
    #### 💡 Key Practices:
+   - You do need to make your own copy of this project and code along with the tutorial.
    - Get comfortable writing in the React style. Do not copy and paste here. Write everything manually.
    - Fill in your gaps in understanding. If you write a line of code and it does what it should but you don't understand why, look it up.
 
