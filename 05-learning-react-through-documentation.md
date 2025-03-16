@@ -21,7 +21,7 @@ This means we won't be touching our final project in VSCode until we finish thes
 
    #### 💡 Key Practices:
    - Start to correlate the code with how components are represented in the UI. Eventually, you want to be able to read code for creating UIs and imagine what it will look like on the screen in your mind's eye.
-   - Take time to understand what you don't already know. If there are words that are unclear to you, don't just skip over them. Research what they mean. Use all of the tools that are available to you (Perplexity, YouTube, Google search). Now is a really important time to do that.
+   - Take time to understand what you don't already know. If there are words that are unclear to you, don't just skip over them. Research what they mean. Use all of the tools that are available to you (Perplexity, YouTube, Google search). Now is a really important time to do that. If you need to ask perplexity to explain things to you as if you're 10 years old! I do that all the time 😁
 
 2️⃣ **Complete the tic tac toe tutorial**
    - 🔗 [React Tic Tac Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
