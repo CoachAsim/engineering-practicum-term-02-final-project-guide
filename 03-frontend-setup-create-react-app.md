@@ -74,7 +74,7 @@ When you run `npm start` in a Create React App project, it uses the `react-scrip
 
 1. **Localhost:** When you run npm start, the development server starts on your local machine, typically on port 3000. This is why you can access your app at http://localhost:3000. The server is running on your machine, so you can view the app directly from there.
 
-2. **On Your Network:** The message also shows a URL like http://10.0.0.152:3000, which is your computer's IP address on the local network. This allows you to access the app from other devices connected to the same network.
+2. **On Your Network:** The message also shows a URL like http://10.0.0.152:3000, which is a computer's IP address on a local network. If this were your computers IP address, it would allow you to access the app from other devices connected to the same network.
 
 #### 💻 How It Works
 
