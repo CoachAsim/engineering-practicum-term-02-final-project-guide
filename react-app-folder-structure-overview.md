@@ -1,6 +1,6 @@
-# 🚀 Understanding Your React App File Structure
+# 🚀 Understanding Your React App Folder Structure
 
-When you run `npx create-react-app my-app`, React creates a standard project structure with everything you need to start building. Let's break down what each file and folder does!
+When you run `npx create-react-app <folder-name>`, React creates a standard project structure with everything you need to start building. Let's break down what each file and folder does!
 
 ## 📁 Root Directory Files
 
@@ -67,4 +67,4 @@ This is where your actual application code lives:
 - **manifest.json** - Update with your app's name and information
 - **README.md** - Replace with documentation specific to your project
 
-Remember that as your project grows, you'll likely want to create new folders within `src` (like `components/`, `pages/`, `assets/`, etc.) to organize your code better.
+As you begin developing your app and adding files we will introduce best practices for adding new directories to keep your project organized 🗃️
