@@ -8,6 +8,8 @@ React has what I would consider relatively high-quality documentation. It's well
 
 So we will use this documentation to ensure we understand and can apply the core concepts before building our own frontend.
 
+This means we won't be touching our final project in VSCode until we finish these steps 😊
+
 ## 📌 Learning Path
 
 ### 🔹 To-do List
